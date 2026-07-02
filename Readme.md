@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Aditya Pathania
 
-### Python Developer | AI Enthusiast | Web Developer
+### Python Developer | AI Enthusiast 
 
 🎓 Python with AI Student at **DUCAT Institute, Noida**  
-💻 Passionate about Python, Artificial Intelligence, Machine Learning, and Web Development.  
+💻 Passionate about Python, Artificial Intelligence, Machine Learning .  
 🚀 I enjoy building real-world applications and continuously learning new technologies.
 
 ---
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="1000" >
+<br><br>
 
 ## 🛠️ Tech Stack
 
@@ -23,8 +25,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -37,19 +37,12 @@ AI-powered web application that monitors real-time Air Quality Index (AQI), pred
 
 ---
 
-### 🍅 Pomodoro Timer
-A responsive productivity timer based on the Pomodoro Technique with Start, Stop, and Reset functionality.
+### 🎬 Movie Recommendation System
+The application analyzes movie similarities and recommends the top 5 related movies through an interactive and user-friendly interface.
 
-**Tech:** HTML, CSS, JavaScript
+**Tech:** Python, Streamlit, Numpy, Pandas, TMDB API
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapathania2123&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapathania2123&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
@@ -63,22 +56,7 @@ A responsive productivity timer based on the Pomodoro Technique with Start, Stop
 
 📧 **Email:** your-email@gmail.com
 
----
-
-⭐ **"Learning never stops. Every project is a step toward becoming a better developer."**
----
-
-#  Cool GIF Section
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</p>
 
 ---
-
-#  Quote of the Day
-> "First, solve the problem. Then, write the code."
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thankyou%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
