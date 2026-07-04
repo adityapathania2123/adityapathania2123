@@ -7,7 +7,7 @@
 🚀 I enjoy building real-world applications and continuously learning new technologies.
 
 ---
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="1000" >
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="100%" >
 <br><br>
 
 ## 🛠️ Tech Stack
@@ -54,7 +54,7 @@ The application analyzes movie similarities and recommends the top 5 related mov
 
 [![Instagram](https://img.shields.io/badge/Instagram-@addii._.23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/addii._.23)
 
-📧 **Email:** your-email@gmail.com
+📧 **Email:** adityapathania2123email@gmail.com
 
 
 ---
