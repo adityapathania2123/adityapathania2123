@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya Pathania , a Computer Science Student specializing in Python Development, with my hand on projects in Data Analyst and make attractive dashboard and find business insight  
+# 👋 Hi, I'm Aditya Pathania , a Computer Science Student
 
 ### Python Developer | Data Analyst | AI Enthusiast 
 
