@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Aditya Pathania , a Computer Science Student
-
+# 👋 Hi, I'm Aditya Pathania 
 ### Python Developer | Data Analyst | AI Enthusiast 
 
 🎓 Python with AI Student at **DUCAT Institute, Noida**  
